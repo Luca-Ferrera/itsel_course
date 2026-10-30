@@ -4,7 +4,11 @@ Questo progetto crea un ambiente JupyterLite: un piccolo laboratorio di dati e i
 
 Link per gli studenti:
 
-<https://luca-ferrera.github.io/itsel_course/lab/index.html?path=01_esempio_esplorazione_dati.ipynb>
+| Notebook | Google Colab (account Google) | JupyterLite (nessun account) |
+|---|---|---|
+| 01 – Esplorazione dati | [![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luca-Ferrera/itsel_course/blob/main/content/01_esempio_esplorazione_dati.ipynb) | [![Apri in JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://luca-ferrera.github.io/itsel_course/lab/index.html?path=01_esempio_esplorazione_dati.ipynb) |
+
+In Colab, prima di modificare il notebook, scegliere **File → Salva una copia in Drive**.
 
 ## Preparazione per il docente
 
